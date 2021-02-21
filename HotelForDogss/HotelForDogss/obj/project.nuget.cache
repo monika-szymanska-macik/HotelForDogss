@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWkO+i7BOlY96bOL3A3NvfgXsHUqb2eUnGfE7QL0Iw1rOABjQpwX/efC9uV8Wqhpb3Ubim6/N2dGfTQmad/Tgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monik\\source\\repos\\Adam\\HotelForDogss\\HotelForDogss\\HotelForDogss.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\monik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\monik\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\monik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\monik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\monik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
