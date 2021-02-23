@@ -1,0 +1,15 @@
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\HotelForDogs.DataAccess.csprojAssemblyReference.cache
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\HotelForDogs.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\HotelForDogs.DataAccess.AssemblyInfoInputs.cache
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\HotelForDogs.DataAccess.AssemblyInfo.cs
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\HotelForDogs.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\bin\Debug\net5.0\HotelForDogs.DataAccess.deps.json
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\bin\Debug\net5.0\HotelForDogs.DataAccess.runtimeconfig.json
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\bin\Debug\net5.0\HotelForDogs.DataAccess.runtimeconfig.dev.json
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\bin\Debug\net5.0\HotelForDogs.DataAccess.dll
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\bin\Debug\net5.0\ref\HotelForDogs.DataAccess.dll
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\bin\Debug\net5.0\HotelForDogs.DataAccess.pdb
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\HotelForDogs.DataAccess.dll
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\ref\HotelForDogs.DataAccess.dll
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\HotelForDogs.DataAccess.pdb
+C:\Users\monik\source\repos\Adam\HotelForDogs.DataAccess\obj\Debug\net5.0\HotelForDogs.DataAccess.genruntimeconfig.cache
